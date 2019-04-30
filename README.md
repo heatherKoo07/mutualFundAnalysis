@@ -13,6 +13,6 @@ The gain over the last 3 years is the difference between the current value after
 
 3. Compare the two mutual funds by evaluating the performance of the funds over 100 random time periods.  Dividends are reinvested.  You will determine the gain of each fund using an initial investment of $10,000 during the time period after applying the dividends awarded during the period.  Finally, you will determine the average gains for both funds over the 100 random time periods.  
 
-Constraints
+Constraints: 
 A mutual fund should be held for at least one year.  You may assume one year is 250 market days.  So, your random time period must be at least one year in duration.
 A mutual fund dividend is awarded only if the fund is held at least 30 days.
